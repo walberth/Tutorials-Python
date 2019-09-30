@@ -1,0 +1,333 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dum",
+				"var_dump"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 452.0
+	},
+	"console":
+	{
+		"height": 118.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/walbe/Desktop/Install_Configure_DJnago.txt",
+		"/C/Users/walbe/Documents/GitHub/Exphadis_Intranet/Main/Applications/recomendaciones/views/editar.php",
+		"/C/Users/walbe/Documents/GitHub/Exphadis_Intranet/Main/Applications/recomendaciones/views/registrar.php",
+		"/C/Users/walbe/Documents/GitHub/Exphadis_Intranet/Main/Applications/recomendaciones/index.php",
+		"/C/Users/walbe/Documents/GitHub/Exphadis_Intranet/Main/Applications/recomendaciones/views/index.php",
+		"/C/Users/walbe/Documents/GitHub/Exphadis_Intranet/Crystals/ActiveRecord/lib/Model.php",
+		"/C/Users/walbe/Documents/Visual Studio 2017/Projects/WSUpgradeAppRosatel/Query_WSUpgradeAppRosatel.sql",
+		"/C/Users/walbe/Documents/GitHub/Exphadis_Intranet/Core/Administration/Static/Vendor/Bootstrap/css/bootstrap.css",
+		"/C/Users/walbe/AppData/Local/Temp/BNZ.5a2db0101426c94a/index.php",
+		"/C/Users/walbe/Documents/GitHub/Exphadis_Intranet/Changelog.txt",
+		"/C/Users/walbe/Documents/GitHub/Exphadis_Intranet/php.ini",
+		"/C/Users/walbe/Documents/GitHub/Exphadis_Intranet/.gitignore",
+		"/C/Users/walbe/Documents/GitHub/Exphadis_Intranet/google3ec8328437d146a4.html",
+		"/C/Users/walbe/Documents/GitHub/Exphadis_Intranet/726BDC473060C8FEDEA2030616A760B5.txt",
+		"/C/Users/walbe/Documents/GitHub/Course_Android/Example - RecyclerViewAdapter/RecyclerView_Example/app/src/main/java/com/example/walbe/retrofitexample/MainActivity.java",
+		"/C/Users/walbe/Downloads/Hosting-Multiple-Endpoints.txt",
+		"/C/Users/walbe/Documents/GitHub/Exphadis_Intranet/Static/Script/index.js",
+		"/C/Users/walbe/Downloads/ejemplo.txt",
+		"/C/Users/walbe/Downloads/consulta-1.txt",
+		"/F/Split_File.ps1",
+		"/C/Users/walbe/Desktop/asd",
+		"/C/Users/walbe/Documents/GitHub/Exphadis_Intranet/Crystals/Util/Form.php",
+		"/F/Untitled-1.sql",
+		"/C/Users/walbe/Desktop/WEB_SERVICE-MOVILES/universidad_DB.sql",
+		"/C/Users/walbe/Desktop/WEB_SERVICE-MOVILES/VolleyConsumeMoviles/app/src/main/java/com/moviles/utp/walberth/volleyconsumemoviles/MainActivity.java",
+		"/C/Users/walbe/Documents/GitHub/UTPMovilesFinal/.gitignore",
+		"/C/Users/walbe/Desktop/UTPMovilesFinal/.gitignore",
+		"/F/2404 - chiok.txt",
+		"/C/Users/walbe/Desktop/ConsumeUpgradeAppRosatel/Query_ConsumeWSAppRosatel.sql",
+		"/C/Users/walbe/Desktop/ConsumeWSAppRosatel/ConsumeWSAppRosatel/Callers/WSRosatelCaller.cs",
+		"/C/Users/walbe/Desktop/ConsumeUpgradeAppRosatel/ConsumeWSAppRosatel/Callers/WSRosatelCaller.cs",
+		"/C/Users/walbe/Desktop/ConsumeUpgradeAppRosatel/.git/config",
+		"/C/Users/walbe/Desktop/ConsumeUpgradeAppRosatel/.gitignore",
+		"/C/Users/walbe/Downloads/Exphadis_Intranet/Settings.Dev.php",
+		"/C/Users/walbe/Downloads/Exphadis_Intranet/Settings.Prod.php",
+		"/C/Users/walbe/Downloads/Exphadis_Intranet/Settings.php",
+		"/C/Users/walbe/Downloads/localhost.sql",
+		"/C/Users/walbe/Downloads/Exphadis_Intranet/google3ec8328437d146a4.html",
+		"/C/Users/walbe/Downloads/Exphadis_Intranet/index.php",
+		"/C/Users/walbe/Desktop/ConsumeWebServiceSeratic/.gitignore",
+		"/C/Users/walbe/Desktop/Expo_Tesis.txt",
+		"/C/ip_contact/LogIpContact",
+		"/C/Users/walbe/Desktop/WGutierrez-FinlProyect(Videojuegos)/Space Wars.html",
+		"/C/Users/walbe/AppData/Local/Temp/BNZ.5a243c944651f75b/index.html",
+		"/C/Users/walbe/Desktop/WGutierrez-FinlProyect(Videojuegos)/js/metodos.js",
+		"/C/Users/walbe/Desktop/WGutierrez-FinlProyect(Videojuegos)/js/objetos.js",
+		"/C/Users/walbe/Desktop/phaserPacmanClone/pacmangame.js",
+		"/C/Users/walbe/Desktop/WGutierrez_Pacman/pacman.html",
+		"/C/Users/walbe/Desktop/phaserPacmanClone/index.html",
+		"/C/Users/walbe/Desktop/WGutierrez_Pacman/pacman.js",
+		"/C/Users/walbe/Desktop/WGutierrez-FinlProyect(Videojuegos)/Space Wars/js/objetos.js",
+		"/C/Users/walbe/Desktop/WGutierrez-FinlProyect(Videojuegos)/Space Wars/js/metodos.js",
+		"/C/Users/walbe/Desktop/WGutierrez-FinlProyect(Videojuegos)/Space Wars/Space Wars.html",
+		"/C/Users/walbe/Desktop/pacman.html",
+		"/C/Users/walbe/AppData/Local/Temp/BNZ.5a235cf542e87010/index.html",
+		"/C/Users/walbe/Documents/GitHub/Exphadis_Intranet/Main/Applications/reportes/index.php",
+		"/C/Users/walbe/Documents/GitHub/Exphadis_Intranet/Main/Models/Asistencia.php",
+		"/F/asc",
+		"/C/Users/walbe/Desktop/public/demo.html",
+		"/C/Users/walbe/Desktop/universidad.sql",
+		"/C/Users/walbe/Desktop/Untitled-1.java",
+		"/C/Users/walbe/Desktop/SQLQuery1.sql",
+		"/C/Users/walbe/Desktop/ConsumeWSAppRosatel/Triggers_ConsumeWSAppRosatel.sql",
+		"/C/Users/walbe/Desktop/ConsumeWebServiceSeratic/ServiceInstall.txt",
+		"/C/Users/walbe/Desktop/ConsumeWSAppRosatel/Query_ConsumeWSAppRosatel.sql",
+		"/C/Users/walbe/Desktop/ConsumeWebServiceSeratic/ConsumeWebServiceSeratic/Notification.cs",
+		"/C/Users/walbe/Desktop/ConsumeWebServiceSeratic/Query_ConsumeWebServiceSeratic.sql",
+		"/C/Users/walbe/Desktop/ConsumeWebServiceSeratic/Triggers_ConsumeWebServiceSeratic.sql",
+		"/C/Users/walbe/Desktop/IPContactV1_Web/Query_CierreHojasRuta.sql",
+		"/F/ConsumeWebServiceSeratic/Triggers_ConsumeWebServiceSeratic.sql",
+		"/C/Users/walbe/Downloads/Query_WSGRAMECOSERATIC.sql",
+		"/F/ConsumeWebServiceSeratic/Query_ConsumeWebServiceSeratic.sql",
+		"/C/Users/walbe/Desktop/InstalacionServicio.txt",
+		"/C/Users/walbe/Desktop/PruebaCambioWSGramecoSeratic/ConsumeWebServiceSeratic/Triggers_ConsumeWebServiceSeratic.sql",
+		"/C/Users/walbe/Desktop/PruebaCambioWSGramecoSeratic/ConsumeWebServiceSeratic/Query_ConsumeWebServiceSeratic.sql",
+		"/C/Users/walbe/Desktop/PruebaCambioWSGramecoSeratic/ConsumeWebServiceSeratic/ServiceInstall.txt",
+		"/C/Users/walbe/Desktop/FacturacionEChile/SQL/SQL/06 Get DTE.sql",
+		"/C/Users/walbe/Desktop/ConsumeWebServiceSeratic/Example_Triggers.sql",
+		"/C/Users/walbe/Desktop/Query_WSGRAMECOSERATIC.sql",
+		"/C/Users/walbe/Desktop/ConsumeWebServiceSeratic/ConsumeWebServiceSeratic/App.config",
+		"/F/Web.config",
+		"/C/Users/walbe/Desktop/ConsumeWebServiceSeratic/ManageService/App.config",
+		"/C/Users/walbe/Documents/Visual Studio 2017/Projects/WSHelpDesk/Querys_SSEE.sql",
+		"/C/Users/walbe/OneDrive/Documentos/1.Universidad Tecnológica del Perú/Ciclo 2017 - III/3. Ética Profesional/Semana 8/El Profesional y sus valores.txt",
+		"/C/Users/walbe/Desktop/movement_of_objects_game_career/movement_of_objects_game_career/juego.js",
+		"/C/Users/walbe/Downloads/Estructure_Views_HelpSchool_Mobile.txt",
+		"/C/Users/walbe/Downloads/El Profesional y sus valores.txt",
+		"/C/Users/walbe/Downloads/Deontologia. la ética profesional,control ético de las profesiones.txt",
+		"/C/Users/walbe/Downloads/Libertad y Libertinaje.txt",
+		"/C/Users/walbe/Downloads/Acto Moral.txt",
+		"/C/Users/walbe/Downloads/Teoría de los Valores.txt",
+		"/C/Users/walbe/Downloads/Definición de valor.txt",
+		"/C/Users/walbe/Downloads/Ética.txt",
+		"/C/Users/walbe/Downloads/Diferencia entre moral y ética.txt",
+		"/C/Users/walbe/Documents/GitHub/HelpSchoolApp/app/src/main/java/com/moviles/utp/helpschoolapp/LoginActivity.java",
+		"/C/Users/walbe/Downloads/TeamViewer.v11.0.52465.Corporate.Edition.Incl.Crack/Instrucciones.txt",
+		"/C/Users/walbe/Documents/Visual Studio 2017/Projects/WSHelpDesk/Data/Request.cs",
+		"/C/Users/walbe/Desktop/Aplicacion/Database.php",
+		"/C/Users/walbe/Documents/Visual Studio 2017/Projects/WSHelpDesk/WSHelpDesk/Controllers/SchoolController.cs",
+		"/C/Users/walbe/Desktop/Aplicacion/Universidad.php",
+		"/C/Users/walbe/Desktop/Aplicacion/Obtener_universidad.php",
+		"/C/Users/walbe/Desktop/Aplicacion/mysql_login.php",
+		"/C/Users/walbe/Documents/GitHub/HelpSchoolApp/notes/structure_mobile_app.txt",
+		"/F/QUERY_USERNAME",
+		"/F/PC2_VIdeojuegos/Movimiento_Sprites/js/workshop_7.1.js",
+		"/F/PC2_VIdeojuegos/Movimiento_Sprites/workshop_7.1.html",
+		"/F/PC2_VIdeojuegos/Movimiento_Sprites/img/walking.png",
+		"/F/PC2_VIdeojuegos/Movimiento_Sprites/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 97.0,
+		"where_history":
+		[
+			"C:\\Users\\walbe\\Documents\\GitHub\\Exphadis_Intranet\\Main\\Applications",
+			"C:\\Users\\walbe\\Documents\\GitHub\\Exphadis_Intranet\\Main\\Applications\\recomendaciones",
+			"C:\\Users\\walbe\\Documents\\GitHub\\Exphadis_Intranet",
+			"C:\\Users\\walbe\\Desktop\\FacturacionEChile\\SQL",
+			"C:\\Users\\walbe\\Documents\\GitHub\\Course_Android\\Example - MenuFragments\\PlatziAndroid",
+			"C:\\Users\\walbe\\Documents\\GitHub\\HelpSchoolApp"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" matricula_id",
+			"<textarea name=\"recomendacion\" id=\"recomendacion\" class=\"valid\">",
+			"Fecha",
+			"insert",
+			"save",
+			"update_attributes",
+			"matricula_id",
+			"update_attributes",
+			"validate_message",
+			"load('/matriculas/rps')",
+			"perderVida()",
+			"perder()",
+			"Cursor keys to move Pacman",
+			"debug",
+			"array('",
+			"DependencyLogAPPRosatel",
+			"WSGRAMECOSERATIC_UpdateLogWSGramecoSeratic",
+			"ListLogInserted",
+			"PageIndexChanging",
+			"Orden_Retiro",
+			"ListLogInserted",
+			"Rutas_Detalle_test ",
+			"sp_FECHListarPendientes",
+			"Envio_Estado_Orden_Ruta",
+			"Rutas_Detalle",
+			"Logs_Sending_Orders",
+			"ShowToolbar",
+			"ATENDIDO",
+			"\"ATENDIDO\"",
+			"'PENDIENTE'",
+			"labelRequest",
+			"content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 253.0
+	},
+	"pinned_build_system": "",
+	"project": "FirstPythonPage.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,51 @@
+/*Install and Configure Python*/
+
+#Validate
+>python -V #Validate Version of python
+>pip freeze #if nothing retorned it's ok
+
+#Set execution policy on Powershell
+>Set-ExecutionPolicy Unrestricted
+
+#Create folder for proyects in Windows
+>cd ~/
+>mkdir DevPython
+
+#Install virtual environment
+>pip install virtualenv
+>pip freeze #Validate if virtual environment is instaled ok
+
+#Create Virtual Environment
+>cd ~/DevPython
+>mkdir FirstPyhtonPage #Parent directory
+>cd FirstPyhtonPage
+>virtualenv . #Only if one version of pyhton is installed
+>.\Scripts\activate
+
+/*Create DJango Project*/
+(FirstPyhtonPage)>pip install django==1.11.8
+(FirstPyhtonPage)>mkdir src
+(FirstPyhtonPage)>cd src
+(FirstPyhtonPage)>django-admin.py startproject FirstPyhtonPage . #Optional on windows
+(FirstPyhtonPage)>mkdir settings
+(FirstPyhtonPage)>cd settings
+
+/*Migrate and create user*/
+(FirstPyhtonPage)>python manage.py migrate #need to reac manage.py
+(FirstPyhtonPage)>python manage.py createsuperuser //walberth || felipe
+
+/*Create new view on web*/
+(FirstPyhtonPage)>python manage.py startapp restaurants #Create the restaurants view
+
+/*Initiate DJango Project*/
+>cd C:\Users\walbe\DevPython\FirstPythonPage
+>ls
+>.\Scripts\activate
+(FirstPyhtonPage)>cd src
+(FirstPyhtonPage)> ls
+(FirstPyhtonPage)>python manage.py runserver
+
+/*Map one model to the database DJango Project*/
+(FirstPyhtonPage)>python manage.py makemigrations
+(FirstPyhtonPage)>python manage.py migrate
+
