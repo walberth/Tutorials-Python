@@ -26,7 +26,7 @@
 (FirstPyhtonPage)>pip install django==1.11.8
 (FirstPyhtonPage)>mkdir src
 (FirstPyhtonPage)>cd src
-(FirstPyhtonPage)>django-admin.py startproject FirstPyhtonPage . #Optional on windows
+(FirstPyhtonPage)>django-admin.py startproject FirstPythonPage . #Optional on windows
 (FirstPyhtonPage)>mkdir settings
 (FirstPyhtonPage)>cd settings
 
